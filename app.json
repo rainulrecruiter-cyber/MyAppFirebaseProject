@@ -7,17 +7,14 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
-
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-
     "ios": {
       "supportsTablet": true
     },
-
     "android": {
       "package": "com.cloudcode.admin",
       "googleServicesFile": "./google-services.json",
@@ -27,13 +24,14 @@
       },
       "edgeToEdgeEnabled": true
     },
-
     "web": {
       "favicon": "./assets/favicon.png"
     },
-
     "extra": {
-      "eas": {}
-    }
+      "eas": {
+        "projectId": "cec3e116-ca1e-47a3-9096-1b2952d672f9"
+      }
+    },
+    "owner": "rainulhassan"
   }
 }
