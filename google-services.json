@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501333188686",
+    "project_id": "cloudcode-d6961",
+    "storage_bucket": "cloudcode-d6961.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501333188686:android:7e3385e9b37daabc3b631f",
+        "android_client_info": {
+          "package_name": "com.cloudcode.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501333188686-0rp3a7n9p2oufmvmr71fvptffpcph1l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEa8Flg2MZfcmSOA0SsxmaKgN3h8T744o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501333188686-0rp3a7n9p2oufmvmr71fvptffpcph1l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
